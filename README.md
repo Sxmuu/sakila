@@ -1,4 +1,4 @@
-# Sakila: Base de datos de ejemplo en MySQL
+    # Sakila: Base de datos de ejemplo en MySQL
 
 > Base de datos de ejemplo que representa una tienda para el alquiler de DVD.
 
